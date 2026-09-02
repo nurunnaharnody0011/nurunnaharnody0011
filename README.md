@@ -68,9 +68,9 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
 
 ## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurunnaharnody0011&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurunnaharnody0011&layout=compact&theme=default) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurunnaharnody0011&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurunnaharnody0011&layout=compact)
 
 ---
 
