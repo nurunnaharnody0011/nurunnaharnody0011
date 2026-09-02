@@ -59,7 +59,7 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
  
 ## 🤝 Connect With Me 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/nurunnahar-nody-4b59ba414/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurunnahar-nody-4b59ba414/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](nurunnaharnody0011@gmail.com)
 
 ---
@@ -70,8 +70,8 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
 
 | GitHub Stats | Most Used Languages |
 | :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurunnaharnody0011&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurunnaharnody0011&layout=compact&theme=default) |
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=nurunnaharnody0011&style=flat-square)
