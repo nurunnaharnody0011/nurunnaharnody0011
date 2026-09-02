@@ -20,16 +20,6 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
 
 
 ---
-## 🛠️ Tech Stack
-
-### Frontend
-HTML5 • CSS3 • JavaScript • TypeScript • React • Bootstrap
-
-### Backend
-Node.js • Express.js
-
-### Tools
-Git • GitHub • VS Code • Postman
 
 ## 🛠️ Tech Stack  
 
@@ -67,10 +57,10 @@ Git • GitHub • VS Code • Postman
 
 ---
  
-## 🤝 Connect With Me
+## 🤝 Connect With Me 
 
-💼 LinkedIn: Add your LinkedIn here  
-📧 Email: Add your email here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/nurunnahar-nody-4b59ba414/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](nurunnaharnody0011@gmail.com)
 
 ---
 
