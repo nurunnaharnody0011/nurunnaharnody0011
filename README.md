@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.jpeg" width="100%" alt="Nurunnahar Nody Banner">
+</p>
 # Hi 👋, I'm Nurunnahar Nody
 
 ### 💻 CS Student | Aspiring Full-Stack Developer
