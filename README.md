@@ -60,7 +60,7 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
 ## 🤝 Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurunnahar-nody-4b59ba414/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](nurunnaharnody0011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:nurunnaharnody0011@gmail.com)
 
 ---
 
