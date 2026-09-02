@@ -73,5 +73,6 @@ Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.j
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nurunnaharnody0011&layout=compact&theme=tokyonight)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=nurunnaharnody0011&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nurunnaharnody0011&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
