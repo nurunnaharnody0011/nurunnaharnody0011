@@ -1,13 +1,35 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Nurunnahar Nody
+
+### 💻 CS Student | Aspiring Full-Stack Developer
+
+📍 Aarhus, Denmark  
+🎓 Computer Science Student  
+🌱 Currently learning React, TypeScript & Node.js  
+🚀 Interested in Web Development and Software Engineering
+
 
 ---
 
-## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## 👩‍💻 About Me
+
+I'm a Computer Science student passionate about web development.
+
+I enjoy building clean and responsive websites and learning new technologies.
+
+Currently, I'm improving my skills in *JavaScript, TypeScript, React, and Node.js*.
+
 
 ---
+## 🛠️ Tech Stack
+
+### Frontend
+HTML5 • CSS3 • JavaScript • TypeScript • React • Bootstrap
+
+### Backend
+Node.js • Express.js
+
+### Tools
+Git • GitHub • VS Code • Postman
 
 ## 🛠️ Tech Stack  
 
@@ -28,16 +50,31 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
+## 🚀 Currently Learning
+
+•⁠  ⁠⚛️ React
+•⁠  ⁠🔷 TypeScript
+•⁠  ⁠🟢 Node.js
+•⁠  ⁠🌐 Full-Stack Web Development
+
+## 🎯 My Goals
+
+•⁠  ⁠Build real-world projects
+•⁠  ⁠Improve my problem-solving skills
+•⁠  ⁠Become a Full-Stack Developer
+•⁠  ⁠Contribute to open-source projects
+
+
+---
+ 
+## 🤝 Connect With Me
+
+💼 LinkedIn: Add your LinkedIn here  
+📧 Email: Add your email here
+
 ---
 
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
-
----
+⭐ *Thanks for visiting my profile!*
 
 ## 📊 GitHub Stats  
 
